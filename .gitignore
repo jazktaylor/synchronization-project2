@@ -6,3 +6,4 @@ part1/ref_psdd
 
 # Object files
 *.o
+/part2/main
