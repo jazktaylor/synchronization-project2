@@ -1,0 +1,8 @@
+# Compiled executables
+part1/shm_proc
+part1/shm_processes
+part1/example
+part1/ref_psdd
+
+# Object files
+*.o
